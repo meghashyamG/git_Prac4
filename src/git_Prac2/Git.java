@@ -7,6 +7,7 @@ public class Git {
 		System.out.println("typing is one of the things i need to improve");
 		System.out.println("good morning");
 		System.out.println("good evening");
+		System.out.println("good noon");
 	}
 
 }
